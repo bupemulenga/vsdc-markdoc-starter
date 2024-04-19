@@ -1,6 +1,6 @@
 ---
-title: Get started with Markdoc
-description: How to get started with Markdoc
+title: Get started with ZRA VSDC
+description: How to get started with the VSDC API
 ---
 
 # VSDC API Documentation
@@ -70,7 +70,7 @@ Start the servlet container or application server where you deployed the WAR fil
 Once the servlet container or application server has started successfully, you can access the deployed application by opening a web browser and navigating to the appropriate URL. The URL will typically include the hostname or IP address of the server, followed by the context path of the application.
 
 ### Monitor Logs (Optional)
-Monitor the logs of the servlet container or application server for any errors or warnings. These logs can provide valuable information if there are issues with deploying or running the .
+Monitor the logs of the servlet container or application server for any errors or warnings. These logs can provide valuable information if there are issues with deploying or running the application.
 {% /callout %}
 
 ## Next steps

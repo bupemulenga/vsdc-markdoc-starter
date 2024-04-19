@@ -5,7 +5,7 @@ export function TopNav({children}) {
   return (
     <nav>
       <Link href="/" className="flex">
-        Home
+        VSDC API
       </Link>
       <section>{children}</section>
       <style jsx>

@@ -14,8 +14,8 @@ import '../public/globals.css'
 import type { AppProps } from 'next/app'
 import type { MarkdocNextJsPageProps } from '@markdoc/next.js'
 
-const TITLE = 'Markdoc';
-const DESCRIPTION = 'A powerful, flexible, Markdown-based authoring framework';
+const TITLE = 'VSDC API';
+const DESCRIPTION = 'A powerful, flexible, seamless bridge between third-party invoicing systems and ZRA Smart Invoice';
 
 function collectHeadings(node, sections = []) {
   if (node) {
